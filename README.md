@@ -1,1 +1,1 @@
-# BOB-Hackathon
+# IntelliGen
